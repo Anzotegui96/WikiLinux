@@ -1,0 +1,26 @@
+.fondo3 {
+    background-image: url(../img/fondo3.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo2 {
+    background-image: url(../img/fondo2.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo1 {
+    background-image: url(../img/fondo1.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    color: rgba(34, 223, 112, 0.87);
+}
+
+.parrafo {
+    color: white;
+}
+
