@@ -17,10 +17,15 @@
 }
 
 .title {
-    color: rgba(34, 223, 112, 0.87);
+    color: #e16a54;
 }
 
 .parrafo {
-    color: white;
+    color: 	#f39e60;
 }
 
+.linediv {
+    border: none;
+    height: 5px;
+    background-color:   #8494be;
+}
